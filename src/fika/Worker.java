@@ -1,4 +1,4 @@
-package assignment3;
+package fika;
 
 public class Worker extends Thread {
 	private String name; // Worker name

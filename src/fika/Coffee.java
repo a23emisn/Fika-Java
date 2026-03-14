@@ -1,4 +1,4 @@
-package assignment3;
+package fika;
 
 public class Coffee {
 	private int drinkEnergy;

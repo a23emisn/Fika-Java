@@ -1,4 +1,4 @@
-package assignment3;
+package fika;
 
 import java.util.Random;
 
